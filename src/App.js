@@ -1,23 +1,16 @@
-import React from 'react';
-import './App.css';
-import FirstScreen from './FirstScreen';
-import Second from './Second';
-
+import React from "react";
+import "./App.css";
+import Building from "./Building";
+import FirstScreen from "./FirstScreen";
+import Second from "./Second";
 
 function App() {
   return (
-    
-      <div className='main_div'>
-    
-       <FirstScreen />
-   
-    
+    <div className="main_div">
+      <FirstScreen />
       <Second />
-      </div>
-   
-   
-   
-   
+      <Building/>
+    </div>
   );
 }
 

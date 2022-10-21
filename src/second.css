@@ -18,7 +18,7 @@ top: 768px;
     position: absolute;
 width: 644px;
 height: 60px;
-left: 0px;
+left: px;
 top: 0px;
 
 font-family: 'Goudy Old Style';
@@ -57,7 +57,7 @@ color: #000000;
 width: 1440px;
 height: 1024px;
 left: 1440px;
-top: 0px;
+/* top: 1075px; */
 
 
 backdrop-filter: blur(2px);
@@ -99,5 +99,5 @@ top: 1074px;
 width: 4009px;
 height: 612px;
 left: 100px;
-top: 400px;
+top: 10px;
 }
