@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.main_div{
+position: relative;
+width: 1440px;
+height: 2937px;
+
+background: #FFFFFF;
+}

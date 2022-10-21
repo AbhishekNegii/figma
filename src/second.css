@@ -1,0 +1,103 @@
+.main{
+    position: absolute;
+    width: 1440px;
+    height: 968px;
+    left: 1440px;
+    top: 768px;
+}
+.main1 {
+    position: absolute;
+width: 4109px;
+height: 968px;
+left: 0px;
+top: 768px;
+}
+
+
+.life{
+    position: absolute;
+width: 644px;
+height: 60px;
+left: 0px;
+top: 0px;
+
+font-family: 'Goudy Old Style';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.belowText {
+    position: absolute;
+width: 1340px;
+height: 58px;
+left: 50px;
+top: 185px;
+
+font-family: 'Varela Round';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.img7 {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 1440px;
+top: 0px;
+
+
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+/* transform: matrix(-1, 0, 0, 1, 0, 0); */
+}
+
+.rect1 {
+    position: absolute;
+width: 818px;
+height: 612px;
+left: 100px;
+/* top: 1074px; */
+top: 200px;
+}
+
+.rect1p {
+    position: absolute;
+width: 818px;
+height: 612px;
+left: 100px;
+top: 1074px;
+
+/* background: url(Rectangle18.jpg); */
+}
+
+.secondimg {
+    position: absolute;
+width: 397px;
+height: 514px;
+left: 943px;
+top: 1074px;
+
+}
+
+.group156 {
+    position: absolute;
+width: 4009px;
+height: 612px;
+left: 100px;
+top: 0px;
+}

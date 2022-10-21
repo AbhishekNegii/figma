@@ -1,0 +1,231 @@
+.div{
+    position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+.expertise {
+    position: absolute;
+width: 115px;
+height: 24px;
+left: 233px;
+top: 58px;
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+
+.projects {
+    position: absolute;
+width: 109px;
+height: 24px;
+left: 373px;
+top: 58px;
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.prime {
+    position: absolute;
+width: 350px;
+height: 77.43px;
+left: 507px;
+top: 31px;
+
+}
+
+.back {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+backdrop-filter: blur(2px);
+}
+
+.invest{
+    position: absolute;
+width: 77px;
+height: 24px;
+left: 882px;
+top: 58px;
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.housing {
+    position: absolute;
+width: 102px;
+height: 24px;
+left: 984px;
+top: 58px;
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.en {
+    position: absolute;
+width: 166px;
+height: 60px;
+left: 1159px;
+top: 40px;
+
+background: linear-gradient(180deg, #B88746 0%, #DFBD69 100%);
+border-radius: 10px;
+
+position: absolute;
+/* width: 102px; */
+/* height: 24px; */
+/* left: 1191px;
+top: 58px; */
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 53px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.front{
+    position: absolute;
+width: 970px;
+height: auto;
+left: 0px;
+top: 140px;
+cursor: pointer;
+transform: scale(1);
+transition: 0.3s ease-in-out;
+}
+
+
+
+.tribe{
+    position: absolute;
+width: 370px;
+height: 120px;
+left: 0px;
+top: 0px;
+
+font-family: 'Avenir LT 65 Medium';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.tribeout {
+    position: absolute;
+width: 370px;
+height: 120px;
+left: 1020px;
+top: 400px;
+}
+
+.rect1 {
+    position: absolute;
+width: 50px;
+height: 5px;
+left: 1340px;
+top: 51px;
+
+background: #000000;
+border-radius: 2px;
+}
+
+.rect2 {
+    position: absolute;
+width: 25px;
+height: 5px;
+left: 1340px;
+top: 67px;
+
+background: #000000;
+border-radius: 2px;
+}
+
+.rect3 {
+    position: absolute;
+width: 50px;
+height: 5px;
+left: 1340px;
+top: 83px;
+
+background: #000000;
+border-radius: 2px;
+}
+
+.tom {
+    position: absolute;
+width: 370px;
+height: 116px;
+left: 0px;
+top: 0px;
+
+font-family: 'Varela Round';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+}
+
+.f58 {
+    position: absolute;
+width: 370px;
+height: 116px;
+left: 1020px;
+top: 545px;
+}
